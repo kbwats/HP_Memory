@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Jelly Beans",
+        "image": "./assets/images/beans.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hogwarts",
+        "image": "./assets/images/castle.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Wizard's Chess",
+        "image": "./assets/images/chess.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cho Chang",
+        "image": "./assets/images/cho.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Crystal",
+        "image": "./assets/images/crystal.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Malfoy",
+        "image": "./assets/images/draco.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Game",
+        "image": "./assets/images/fly.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Flying Car",
+        "image": "./assets/images/flyingcar.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ginny",
+        "image": "./assets/images/ginny.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Goblet of Fire",
+        "image": "./assets/images/goblet.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Hagrid",
+        "image": "./assets/images/hagrid.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Harry",
+        "image": "./assets/images/harry.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Hedwig",
+        "image": "./assets/images/hedwig.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Hermione",
+        "image": "./assets/images/hermione.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Flying Keys",
+        "image": "./assets/images/keys.jpg"
+    }
+]

@@ -1,0 +1,20 @@
+.jumbotron {
+    margin-top: 70px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Shrikhand', cursive;
+    background-image: url('https://orig00.deviantart.net/f380/f/2015/302/b/7/harry_potter_header_banner_by_valentine_deviant-d9erz51.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    color: white;
+    text-shadow: 0 0 5px #000;
+    letter-spacing: 1px;
+    height: 405px;
+    padding-top: 20px;
+}
+
+h1 {
+    font-size: 3.5rem;
+    margin-bottom: 0px;
+}

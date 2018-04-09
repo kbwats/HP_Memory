@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Lockheart",
+        "image": "/assets/images/lockheart.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Madeye Moody",
+        "image": "/assets/images/madeye.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Professor",
+        "image": "/assets/images/mcgon.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pink Lady",
+        "image": "/assets/images/pink.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ron",
+        "image": "/assets/images/ron.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Scar",
+        "image": "/assets/images/scar.png"
+    },
+    {
+        "id": 7,
+        "name": "Library",
+        "image": "/assets/images/study.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Hogwarts Express",
+        "image": "/assets/images/train.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Voldemort",
+        "image": "/assets/images/vold.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Weasley",
+        "image": "/assets/images/weasley.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Yule",
+        "image": "/assets/images/yule.jpg"
+    },
+    ]
